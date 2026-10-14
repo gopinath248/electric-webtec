@@ -1,0 +1,495 @@
+[
+  {
+    "id": "single-phase-control-panel",
+    "name": "Single Phase Control Panel",
+    "category": "product",
+    
+    "specs": [
+      { "label": "Power", "value": "1 HP - 50 HP" },
+      {"label":"Brand","value":"Texro Automation"},
+      { "label": "Voltage", "value": "220-240V" },
+      { "label": "Material", "value": "Mild Steel" },
+      { "label": "Features", "value": "Corrosion Resistance" },
+      { "label": "Phase", "value": "Single Phase" },
+      { "label": "Frequency", "value": "50 Hz" },
+        { "label": "Shape", "value": "Rectangular" }
+      
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true,
+      "images": [
+        "/images/pic texro/single-phase-control-panel-500x500.webp"
+      ]
+    },
+    "description": ["Reliable single-phase dry run panel with water level controller built for pump protection, automatic control, and uninterrupted irrigation or water supply operations."
+
+  
+],
+    "images": []
+  },
+  {
+    "id": "abs-single-phase-openwell-panel",
+    "name": "ABS Single Phase Openwell Panel",
+    "category": "product",
+
+    "specs": [
+      { "label": "Power", "value": "1 HP " },
+      {"label":"Brand","value":"Texro Automation"},
+      { "label": "Voltage", "value": "220V" },
+      { "label": "Material", "value": "ABS" },
+      { "label": "Packing Type", "value": "Box" },
+      { "label": "Phase", "value": "Single Phase" },
+      { "label": "Frequency", "value": "50/60Hz" },
+        { "label": "Display Type", "value": "Analog" }
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true,
+      "images": [
+        "/images/INDIA MART/ABS Single phase dry run panel.jpg",
+        "/images/INDIA MART/IMG-20180809-WA0010.jpg",
+        "/images/INDIA MART/IMG-20190221-WA0061.jpg"
+      ]
+    },
+    "description": "ABS enclosed openwell control panel built for agricultural drip irrigation systems, offering dependable pump protection, automatic operation, and stable water delivery in field conditions.",
+    "images": []
+  },
+  {
+    "id": "three-phase-mobile-starter",
+    "name": "Three Phase Mobile Starter",
+    "category": "product",
+    
+    "specs": [
+     
+      {"label":"Brand","value":"Texro Mobile Starter and Preventer"},
+      { "label": "Usage/A pplication", "value": "Motor Conntrol" },
+      { "label": "Phase", "value": "3" },
+       { "label": "Voltage", "value": "250-440 V" },
+      { "label": "Model Name/Number", "value": "Texro-GSM" }
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Portable three-phase starter panel developed for agricultural irrigation motors, delivering reliable starting performance, field-ready protection, and consistent pump control for drip irrigation networks"
+    
+  },
+  {
+    "id": "1-hp-electric-control-panel",
+    "name": "1 HP Electric Control Panel",
+    "category": "product",
+
+    "specs": [
+      { "label": "Operating Voltage", "value": "220-240V" },
+      {"label":"Phase","value":"Single Phase"},
+      { "label": "Power", "value": "1HP" },
+      { "label": "Brand", "value": "Texro Automation" },
+      { "label": "Material", "value": "Sheer Metal" },
+      { "label": "Phase", "value": "Single Phase" },
+      { "label": "Frequency", "value": "50 Hz" },
+        { "label": "Shape", "value": "Rectangular" },
+        { "label": "Display Type", "value": "Analog" },
+        { "label": "Packing Type", "value": "Box" },
+          { "label": "Features", "value": "Corrosion Resistance" }
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Compact 1 HP control panel suited for small drip irrigation and water transfer pumps, providing efficient motor control, dependable switching, and smooth daily farm operation..",
+    "images": ["/images/INDIA MART/1 HP Electric Control panel.png",
+                "/images/INDIA MART/IMG_20180907_205552.jpg",
+                "/images/INDIA MART/IMG-20190221-WA0055.jpg"
+  ]
+  },
+  {
+    "id": "star-delta-starter-control-panel",
+    "name": "Star Delta Starter Control Panel",
+    "category": "product",
+  
+    "specs": [
+        {"label":"Brand","value":"Texro Automation"},
+        {"label":"Starter-Type","value":"Star-Delta Starter"},
+        { "label": "Material", "value": "Mild Steel" },
+      { "label": "Power", "value": "5 HP - 25 HP" },
+      { "label": "Phase", "value": "3 phase" },
+      { "label": "Voltage", "value": "360 - 415 V" },
+      { "label": "Features", "value": "Corrosion Resistance" },
+      { "label": "Frequency", "value": "50 - 60 Hz" },
+        { "label": "Shape", "value": "Rectangular" },
+         { "label": "Usage/A pplication", "value": "Motor Starter" }
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Heavy-duty star delta starter panel designed for larger agricultural pumps, reducing starting current while supporting stable and efficient water movement for drip irrigation applications",
+    "images": ["/images/INDIA MART/Star-Delta Starter.jpg"]
+  },
+  {
+    "id": "Open Well Submersible Control Panel",
+    "name": "Open Well Submersible Control Panel",
+    "category": "product",
+   
+    "specs": [
+       { "label": "Material", "value": "Mild Steel" },
+         { "label": "Voltage", "value": "220-240V" },
+         {"label":"Brand","value":"Texro Automation"},
+          { "label": "Features", "value": "Corrosion Resistance" },
+          { "label": "Shape", "value": "Rectangular" },
+           { "label": "Surface Treatment", "value": "Powder Coating" },
+            { "label": "Frequency", "value": "50 Hz" },
+          { "label": "Phase", "value": "Single Phase" },
+            { "label": "Power", "value": "0.5 HP - 1 HP" }
+     
+        
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description":  "Open well submersible control panel engineered for irrigation pump safety, with dependable motor protection and automatic operation to maintain uninterrupted water supply for agriculture.",
+
+    "images": [   "/images/INDIA MART/open weLL Submerisible Mo.jpg",
+             "/images/INDIA MART/IMG20180723203202.jpg",
+           "/images/INDIA MART/IMG20180723203213.jpg"
+        ]
+  },
+  {
+    "id": " Submersible  Pump Control Panel",
+    "name": " Submersible Pump Control Panel",
+    "category": "product",
+   
+    "specs": [
+       { "label": "Material", "value": "Mild Steel" },
+         { "label": "Voltage", "value": "220-240V" },
+         {"label":"Brand","value":"Texro Automation"},
+          { "label": "Features", "value": "Corrosion Resistance" },
+          { "label": "Shape", "value": "Rectangular" },
+           { "label": "Surface Treatment", "value": "Powder Coating" },
+            { "label": "Frequency", "value": "50 Hz" },
+          { "label": "Phase", "value": "Single Phase" },
+            { "label": "Power", "value": "0.5 HP - 1 HP" }
+     
+        
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Submersible pump control panel designed for agricultural irrigation systems, offering reliable motor safety, efficient pump automation, and steady water delivery for field operations.",
+    "images": [  
+        ]
+  },
+  {
+    "id": "MCB-Control-panel",
+    "name": "MCB-Control-panel",
+    "category": "product",
+   
+    "specs": [
+     { "label": "Operating Voltage", "value": "220-240 V" },
+      {"label":"Brand","value":"Texro Automation"},
+      { "label": "Voltage", "value": "220-240V" },
+      { "label": " Body Material", "value": "ABS" },
+      { "label": "Phase", "value": "Single Phase" },
+      { "label": "Frequency", "value": "50 Hz" }
+  
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "MCB control panel for single-phase agricultural pump systems, combining circuit protection and reliable motor control for safer drip irrigation and day-to-day water management.",
+    "images": ["/images/INDIA MART/MCBControll.jpg",
+  "/images/INDIA MART/IMG-20190221-WA0055.jpg"]
+  },
+  {
+    "id": "Dry Run Preventer",
+    "name": "Dry Run Preventer",
+    "category": "product",
+  
+    "specs": [
+    
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Dry run preventer built for agricultural pumps to stop motor operation during water shortage, improving safety and reliability in drip irrigation systems.",
+    "images": ["/images/digital-3hp-drive-500x500.webp"]
+  },
+  {
+    "id": "TEX-7DR Dry Run Preventer",
+    "name": "TEX-7DR Dry Run Preventer",
+    "category": "product",
+   
+    "specs": [
+      { "label": "Usage/Application", "value": "Agriculture" },
+      {"label":"Brand","value":"Texro Automation"},
+      { "label": "Voltage", "value": "220-240V" },
+      { "label": "Features", "value": "Corrosion Resistance" },
+      { "label": "Frequency", "value": "50 Hz" },
+       { "label": "Digit- Display-Size", "value": "5" },
+       { "label": "Power Source", "value": "Electric" },
+         { "label": "Model Name/Number", "value": "TEX-7DR" }
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Remote monitoring and control solution with mobile connectivity.",
+    "images": [     "/images/INDIA MART/WhatsApp Image 2026-03-30 at 4.21.46 PM.jpeg",
+              "/images/INDIA MART/IMG20160719234002.jpg",
+            "/images/INDIA MART/IMG20160719233720.jpg"]
+  },{
+    "id": "Microcontroller Based Dry Run Preventer",
+    "name": "Microcontroller Based Dry Run Preventer",
+    "category": "product",
+  
+    "specs": [
+      { "label": "Power Rating", "value": "1 HP - 50 HP" },
+      {"label":"Brand","value":"Texro Automation"},
+      { "label": "Voltage", "value": "360-440 VAC" },
+      { "label": "Material", "value": "Mild Steel" },
+      { "label": "Features", "value": "Microcontroller Based with 5 Dry Run Timer" },
+      { "label": "Phase", "value": "three Phase" },
+      { "label": "Frequency", "value": "50/60 Hz" },
+       { "label": "Display Type", "value": "Digital" },
+        { "label": "Power Source", "value": "Electric" },
+          { "label": "Model Name/Number", "value": "TCX-DAWL 1.1" }
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Microcontroller-based dry run preventer for irrigation pump protection, providing accurate sensing and automatic shutdown to prevent motor damage during low-water conditions.",
+    "images": ["/images/INDIA MART/IMG-20180806-WA0009.jpg",
+              "/images/INDIA MART/IMG-20180809-WA0016.jpg",
+            "/images/INDIA MART/IMG-20180809-WA0014.jpg",
+          "/images/INDIA MART/IMG-20180809-WA0013.jpg",
+        "/images/INDIA MART/IMG-20180708-WA0049.jpg"]
+  },
+  {
+    "id": "Single Phase Preventer",
+    "name": "Single Phase Preventer",
+    "category": "product",
+  
+    "specs": [
+    
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Compact drive solution for process control and energy-efficient speed regulation.",
+    "images": ["/images/digital-3hp-drive-500x500.webp"]
+  },
+  {
+    "id": "Auto Start ASPU Single Phase Preventer",
+    "name": "Auto Start ASPU Single Phase Preventer",
+    "category": "product",
+   
+    "specs": [
+      { "label": "Power", "value": "3 HP - 50 HP" },
+      {"label":"Brand","value":"Texro Automation"},
+      { "label": "Voltage", "value": "220-440V" },
+      { "label": "Material", "value": "Mild Steel" },
+      { "label": "Features", "value": "Phase Sequence and Under Voltage Protection" },
+      { "label": "Phase", "value": "three Phase" },
+      { "label": "Frequency", "value": "50 Hz" },
+       { "label": "Packing Type", "value": "Box" }
+      
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": " Auto Start Single phase preventer with auto start capability designed for farm pumps, ensuring safe restarting, motor protection, and smoother irrigation control.",
+    "images": ["/images/INDIA MART/IMG20161202163149.jpg",
+                  "/images/INDIA MART/IMG20170817190917.jpg",
+              "/images/INDIA MART/IMG-20190221-WA0073.jpg",
+              "/images/INDIA MART/WhatsApp Image 2026-03-30 at 4.21.38 PM (1).jpeg",
+              "/images/INDIA MART/IMG-20180810-WA0006.jpg"
+             
+            ]
+  },
+  {
+    "id": "Single Phase Preventer-3 CT",
+    "name": "Single Phase Preventer-3 CT",
+    "category": "product",
+   
+    "specs": [
+      { "label": "Mounting Type", "value": "Wall Mount" },
+      { "label": "Packing Type", "value": "Box" },
+      {"label":"Brand","value":"Texro Automation"},
+      { "label": "Voltage", "value": "415 V" },
+      { "label": "Material", "value": "Mild Steel" },
+      { "label": "Features", "value": "Corrosion Resistance" },
+      { "label": "Phase", "value": "three Phase" },
+      { "label": "Frequency", "value": "50 Hz" },
+        { "label": "rating", "value": "2.0 to 7.5 Hp" },
+        { "label": "Model Name/Number", "value": "TCX-DAWL 1.1" }
+     
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Single phase preventer with 3 CT monitoring for agricultural pump applications, helping protect motors from unsafe current conditions during irrigation use.",
+    "images": ["/images/INDIA MART/IMG-20180809-WA0017.jpg",
+    "/images/INDIA MART/IMG-20180810-WA0007.jpg",
+    "/images/INDIA MART/IMG-20180810-WA0006.jpg",
+    "/images/INDIA MART/IMG-20180809-WA0017.jpg"
+  ]
+  },
+  {
+    "id": "Digital Starter",
+    "name": "Digital Starter",
+    "category": "product",
+  
+    "specs": [
+    
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Compact drive solution for process control and energy-efficient speed regulation.",
+    "images": ["/images/digital-3hp-drive-500x500.webp"]
+  },
+  {
+    "id": "Digital Single Phase Electronic Starter",
+    "name": "Digital Single Phase Electronic Starter",
+    "category": "product",
+   
+    "specs": [
+      { "label": "Starter-Type", "value": "Microcontroller Based " },
+      {"label":"Brand","value":"Texro Automation"},
+      { "label": "Model Name/Number", "value": "IT-DAW" },
+      { "label": "Voltage", "value": "220 V" },
+      { "label": "Material", "value": "Mild Steel" },
+      { "label": "Features", "value": "Corrosion Resistance" },
+      { "label": "Phase", "value": "Single Phase" },
+      { "label": "Frequency", "value": "50 Hz" },
+        { "label": "Shape", "value": "Rectangular" }
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Digital single-phase electronic starter built for irrigation pumps, offering dependable start-stop control, motor safety, and efficient operation in agricultural environments.",
+    "images": ["/images/INDIA MART/IMG-20180806-WA0006.jpg",
+                "/images/INDIA MART/IMG-20180809-WA0010.jpg",
+              "/images/INDIA MART/IMG-20180809-WA0020.jpg"]
+  },{
+    "id": "Three Phase DOL Starter",
+    "name": "Three Phase DOL Starter",
+    "category": "product",
+   
+    "specs": [
+      { "label": "Power", "value": "1 HP - 50 HP" },
+      {"label":"Brand","value":"Texro Automation"},
+      { "label": "Voltage", "value": "280-440 V " },
+      { "label": "Material", "value": "Mild Steel" },
+      { "label": "Features", "value": "Corrosion Resistance" },
+      { "label": "Phase", "value": "three Phase" },
+      { "label": "Frequency", "value": "50/60 Hz" },
+        { "label": "Mounting Type", "value": "Wall Mount" },
+        { "label": "Starter-Type", "value": "DOL" }
+
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Three phase DOL starter designed for irrigation pump motors, providing direct and reliable starting performance for agricultural water delivery systems.",
+    "images": ["/images/INDIA MART/IMG-20190221-WA0066.jpg",
+                "/images/INDIA MART/IMG-20190221-WA0068.jpg",
+              "/images/INDIA MART/IMG-20190221-WA0069.jpg",
+            "/images/INDIA MART/IMG-20190221-WA0071.jpg"]
+  },
+    {
+    "id": "GSM Mobile Preventer",
+    "name": "GSM Mobile Preventer",
+    "category": "product",
+  
+    "specs": [
+    
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "GSM mobile preventer for agricultural pumps, enabling remote control, monitoring, and safer motor operation across drip irrigation systems.",
+    "images": ["/images/INDIA MART/IMG-20180809-WA0018.jpg",
+          "/images/INDIA MART/GSM Mobile Preventer.jpg",
+           "/images/INDIA MART/IMG-20180804-WA0063.jpg",
+           "/images/INDIA MART/WhatsApp Image 2026-03-30 at 4.21.43 PM.jpeg"
+  ]
+  },
+  {
+    "id": "gsm-mobile-preventer",
+    "name": "GSM Mobile Preventer",
+    "category": "product",
+   
+    "specs": [
+      { "label": "Usage/Application", "value": "Electrical Panels, Submersible Pumps" },
+      {"label":"Brand","value":"Texro Automation"},
+         { "label": "Model Name/Number", "value": "MEK-GSM-01" },
+      { "label": "Voltage", "value": "220-240V" },
+      { "label": "Phase", "value": "three Phase" },
+      { "label": "Frequency", "value": "50 Hz" }
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": true,
+      "showContactCTA": true
+    },
+    "description": "Digital 3HP drive optimized for irrigation pump automation, helping regulate motor speed, improve energy efficiency, and support controlled water flow in drip irrigation systems.",
+    "images": ["/images/ac-to-ac-controller-500x500.webp"]
+  },
+  
+  {
+    "id": "installation-commissioning-service",
+    "name": "Installation & Commissioning",
+    "category": "service",
+   
+    "specs": [
+      { "label": "Usage/Application", "value": "Industrial" },
+      {"label":"Brand","value":"Texro Automation"},
+         { "label": "Model Name/Number", "value": "MEK-GSM-01" },
+           { "label": "Material", "value": "ABS" },
+      { "label": "Voltage", "value": "280-360 V" },
+      { "label": "Phase", "value": "three Phase" },
+      { "label": "Frequency", "value": "50/60 Hz" },
+       { "label": "Display Type", "value": "Digital" }
+  
+    ],
+    "conditions": {
+      "showSpecs": true,
+      "showPrice": false,
+      "showContactCTA": true
+    },
+    "description": "On-site installation and commissioning support for Texro Automation systems.",
+    "images": ["/images/pic texro/product-jpeg-500x500.webp"]
+  }
+]
